@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KMITLeatery</string>
+
+    <!-- Login -->
+    <string name="login_title">เข้าสู่ระบบ</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login_button">LOGIN</string>
+
+    <!-- Menu -->
+    <string name="menu_title">เมนูอาหาร</string>
+
+    <!-- Confirm -->
+    <string name="confirm_title">ยืนยันคำสั่ง</string>
+    <string name="vat">VAT 80%</string>
+    <string name="total">ยอดรวมทั้งหมด</string>
+    <string name="confirm_button">ยืนยัน</string>
+    <string name="cancel_button">ยกเลิก</string>
+
+    <!-- Success -->
+    <string name="success_message">ส่งคำสั่งอาหารเสร็จสิ้น\nกรุณารอรับอาหารและเตรียมชำระเงินให้เพียงพอ</string>
+    <string name="back_to_menu">กลับหน้าหลัก</string>
+</resources>

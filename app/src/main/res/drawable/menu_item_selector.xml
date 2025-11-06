@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ใช้ทำ Hover -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#40212121"> <!-- สีเทาเข้ม โปร่งแสง 25% -->
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white"/> <!-- พื้นหลังปกติ สีขาว -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- สีหลักแอป -->
+    <color name="primary">#FF6200EE</color>
+    <color name="Primary_dark">#FF3700B3</color>
+    <color name="accent">#FF03DAC5</color>
+
+    <!-- สี food order -->
+    <color name="orange">#FF9800</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#757575</color>
+</resources>
